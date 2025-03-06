@@ -3,11 +3,12 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 Answer 
-Audiences my be eginners who need every step explained or Experts who just need quick info. It is important to understand them to tailor your content based on what your audience already knows. This is key because writing for the wrong audience is like giving a scientist a recipe for cookies—totally off the mark.
+Audiences may be beginners who need every step explained or Experts who just need quick info. 
+It is important to understand them to tailor your content based on what your audience already knows. This is key because writing for the wrong audience is like giving a scientist a recipe for cookies—totally off the mark.
 
 ## 2. What are some strategies to tailor your content to different audience types?
 Answer
-This includes use of simple language, being concise, and ensuring the writing is structures.
+This includes use of simple language, being concise, and ensuring the writing is structured.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 Answer
